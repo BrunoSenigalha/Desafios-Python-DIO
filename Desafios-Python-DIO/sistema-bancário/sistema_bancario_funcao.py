@@ -1,3 +1,6 @@
+'''
+Esse sistema com função não pertence ao exercício proposto com função, foi um teste pessoal.
+'''
 import os
 
 opcoes = '''
