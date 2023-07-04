@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-'''
-Esse sistema com função não pertence ao exercício proposto com função, foi um teste pessoal.
-'''
->>>>>>> 07cd69a17ccbceee3f309af098b5ce2b64e5374d
 import os
 
 opcoes = '''
